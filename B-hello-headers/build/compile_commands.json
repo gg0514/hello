@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/gg0514/work/vscode/B-hello-headers/build",
+  "command": "/usr/bin/g++   -I../include  -g   -o CMakeFiles/hello_headers.dir/src/Hello.cpp.o -c /home/gg0514/work/vscode/B-hello-headers/src/Hello.cpp",
+  "file": "/home/gg0514/work/vscode/B-hello-headers/src/Hello.cpp"
+},
+
+{
+  "directory": "/home/gg0514/work/vscode/B-hello-headers/build",
+  "command": "/usr/bin/g++   -I../include  -g   -o CMakeFiles/hello_headers.dir/src/main.cpp.o -c /home/gg0514/work/vscode/B-hello-headers/src/main.cpp",
+  "file": "/home/gg0514/work/vscode/B-hello-headers/src/main.cpp"
+}
+]

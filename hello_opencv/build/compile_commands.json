@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/gg0514/work/vscode/hello_opencv/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/HelloCV.dir/src/ImgView.cpp.o -c /home/gg0514/work/vscode/hello_opencv/src/ImgView.cpp",
+  "file": "/home/gg0514/work/vscode/hello_opencv/src/ImgView.cpp"
+}
+]

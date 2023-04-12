@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/hello_poco.dir/src/hello.cpp.o  -o hello_poco  -Wl,-rpath,/usr/local/lib /usr/local/lib/libPocoNet.so.94 /usr/local/lib/libPocoUtil.so.94 /usr/local/lib/libPocoXML.so.94 /usr/local/lib/libPocoJSON.so.94 /usr/local/lib/libPocoFoundation.so.94 -lpthread -ldl -lrt 

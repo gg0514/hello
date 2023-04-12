@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/gg0514/work/vscode/hello_poco/build",
+  "command": "/usr/bin/g++  -DPOCO_NO_AUTOMATIC_LIBS  -g   -o CMakeFiles/hello_poco.dir/src/hello.cpp.o -c /home/gg0514/work/vscode/hello_poco/src/hello.cpp",
+  "file": "/home/gg0514/work/vscode/hello_poco/src/hello.cpp"
+}
+]

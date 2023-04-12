@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/gg0514/work/vscode/A-hello-cmake/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/hello_cmake.dir/main.cpp.o -c /home/gg0514/work/vscode/A-hello-cmake/main.cpp",
+  "file": "/home/gg0514/work/vscode/A-hello-cmake/main.cpp"
+}
+]
