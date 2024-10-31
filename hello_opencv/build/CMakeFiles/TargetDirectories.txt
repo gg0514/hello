@@ -1,3 +1,0 @@
-/home/gg0514/work/vscode/hello_opencv/build/CMakeFiles/rebuild_cache.dir
-/home/gg0514/work/vscode/hello_opencv/build/CMakeFiles/edit_cache.dir
-/home/gg0514/work/vscode/hello_opencv/build/CMakeFiles/HelloCV.dir
