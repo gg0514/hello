@@ -31,6 +31,15 @@
           "CMAKE_CXX_COMPILER": "/Library/Developer/CommandLineTools/usr/bin/g++",
           "CMAKE_BUILD_TYPE": "Debug"
         }
+      },
+      {
+        "name": "vcpkg",
+        "generator": "Ninja",
+        "binaryDir": "${sourceDir}/build/vcpkg",
+        "cacheVariables": {
+          "CMAKE_BUILD_TYPE": "Debug",
+	  "CMAKE_TOOLCHAIN_FILE":"$env{VCPKG_ROOT}/scripts/buildsystems/vcpkg.cmake"
+        }
       }
 
     ],
@@ -49,7 +58,13 @@
         "name": "mac",
         "configurePreset": "mac",
         "targets": ["all"]
+      },
+      {
+        "name": "vcpkg",
+        "configurePreset": "vcpkg",
+        "targets": ["all"]
       }
+
  
     ]
 }

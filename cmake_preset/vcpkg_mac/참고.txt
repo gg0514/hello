@@ -1,0 +1,12 @@
+
+< Configuration >
+
+cmake --preset=vcpkg
+
+
+
+< Build >
+
+cmake --build --preset=vcpkg
+
+

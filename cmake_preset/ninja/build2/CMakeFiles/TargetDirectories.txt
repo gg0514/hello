@@ -1,0 +1,3 @@
+/Users/cmpark/work/hello_cmake/cmake_preset/ninja/build2/CMakeFiles/hello.dir
+/Users/cmpark/work/hello_cmake/cmake_preset/ninja/build2/CMakeFiles/edit_cache.dir
+/Users/cmpark/work/hello_cmake/cmake_preset/ninja/build2/CMakeFiles/rebuild_cache.dir

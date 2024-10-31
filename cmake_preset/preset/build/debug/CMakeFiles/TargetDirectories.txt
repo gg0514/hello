@@ -1,3 +1,0 @@
-D:/work/_console/preset/build/debug/CMakeFiles/hello.dir
-D:/work/_console/preset/build/debug/CMakeFiles/edit_cache.dir
-D:/work/_console/preset/build/debug/CMakeFiles/rebuild_cache.dir
