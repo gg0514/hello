@@ -1,3 +1,0 @@
-C:/Users/odyssey/work/hello_cmake/A-hello-cmake/build/CMakeFiles/hello_cmake.dir
-C:/Users/odyssey/work/hello_cmake/A-hello-cmake/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/odyssey/work/hello_cmake/A-hello-cmake/build/CMakeFiles/ZERO_CHECK.dir
