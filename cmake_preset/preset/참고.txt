@@ -1,0 +1,12 @@
+
+< Configuration >
+
+cmake --preset=debug
+
+
+
+< Build >
+
+cmake --build --preset=debug
+
+

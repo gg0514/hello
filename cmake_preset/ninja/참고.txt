@@ -1,0 +1,47 @@
+
+
+< Generator 지정없는 경우 >   
+-- CMake가 자동으로 빌더와 컴파일러를 VisualStudio로 설정한다.
+- -자동으로 뭐를 찾는다는 것이 애매모호하고, 알 수가 없다.
+
+d:\work\_console\preset>cmake -S . -B build
+
+-- Building for: Visual Studio 17 2022
+-- Selecting Windows SDK version 10.0.22621.0 to target Windows 10.0.22631.
+-- The C compiler identification is MSVC 19.39.33523.0
+-- The CXX compiler identification is MSVC 19.39.33523.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.39.33519/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.39.33519/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (5.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/work/_console/preset/build
+
+
+< Generator 지정있는 경우 >    
+CMake가 자동으로 컴파일러를 VisualStudio로 설정한다. (빌더는 닌자)
+
+
+d:\work\_console\preset>cmake -S . -B build_ninja -G Ninja
+-- The C compiler identification is GNU 11.2.0
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Qt/Tools/mingw1120_64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Qt/Tools/mingw1120_64/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (3.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/work/_console/preset/build_ninja

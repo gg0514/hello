@@ -1,0 +1,3 @@
+D:/work/_console/preset/build/CMakeFiles/hello.dir
+D:/work/_console/preset/build/CMakeFiles/ALL_BUILD.dir
+D:/work/_console/preset/build/CMakeFiles/ZERO_CHECK.dir
