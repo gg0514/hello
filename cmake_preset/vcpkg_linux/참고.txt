@@ -1,0 +1,17 @@
+* 먼저 VCPKG 설치해야함.
+* VCPKG_ROOT 환경변수 설정해야함.
+* pkg-config 설치해야함.
+* 그러면, 잘 됨!
+
+
+< Configuration >
+
+cmake --preset=vcpkg
+
+
+
+< Build >
+
+cmake --build --preset=vcpkg
+
+
