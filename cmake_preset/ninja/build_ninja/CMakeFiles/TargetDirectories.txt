@@ -1,3 +1,0 @@
-D:/work/_console/preset/build_ninja/CMakeFiles/hello.dir
-D:/work/_console/preset/build_ninja/CMakeFiles/edit_cache.dir
-D:/work/_console/preset/build_ninja/CMakeFiles/rebuild_cache.dir
