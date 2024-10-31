@@ -1,3 +1,0 @@
-/home/gg0514/work/vscode/hello_poco/build/CMakeFiles/rebuild_cache.dir
-/home/gg0514/work/vscode/hello_poco/build/CMakeFiles/edit_cache.dir
-/home/gg0514/work/vscode/hello_poco/build/CMakeFiles/hello_poco.dir
