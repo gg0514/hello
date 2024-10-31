@@ -1,0 +1,18 @@
+
+* Windows OS에서는 Developer Command Prompt에서 해야 함.
+
+** GPT 왈, Visual Studio를 설치할 때 함께 제공되는 Developer Command Prompt를 사용해 보세요. 이 명령 프롬프트는 Visual Studio의 환경 변수를 자동으로 설정합니다.
+
+*** CMAKE_TOOLCHAIN_FILE 에서 vcpkg.cmake 툴체인파일이 자동으로 ms 컴파일러를 찾는데, Developer Command Prompt를 사용하지 않으면, 환경변수 문제로 여러가지로 꼬이는 문제 발생함!!!
+
+
+< Configuration >
+
+cmake --preset=vcpkg
+
+
+< Build >
+
+cmake --build --preset=vcpkg
+
+
